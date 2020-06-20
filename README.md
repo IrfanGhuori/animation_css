@@ -1,3 +1,4 @@
+```sh
 .animated {
   animation-duration: 1s;
   animation-fill-mode: both;
@@ -1337,3 +1338,5 @@
 }
 
 
+
+```
